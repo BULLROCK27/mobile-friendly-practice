@@ -1,0 +1,25 @@
+html{
+    height: 100%;
+}
+head{
+    display: none;
+}
+body{
+     margin: 0px; height: 100%;
+     background: #0e0e0e;
+     display: block;
+     margin: auto; cursor: zoom-out;
+     background-color: hsl(0, 0%, 90%);
+     transition: background-color 300ms;
+    text-decoration: underline; text-align: center;
+}
+    img{
+        width: 811px;
+        height:592px;
+    }
+    section{
+        text-align: left;
+    }
+    article{
+        text-align: right;
+    }
